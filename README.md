@@ -2,7 +2,7 @@
 
 ℹ️ For detailed information about the contest, check out [devadvent/readme](https://github.com/devadvent/readme/)
 
-# Dev Advent Calendar 🎅 Puzzle 10 - Keeping Secrets Safe 🔑
+# Dev Advent Calendar 🎅 Puzzle 11 - Keeping Secrets Safe 🔑
 
 Some sections of the North Pole have restricted access, because they contain secrets, like Mrs. Claus's Hot Chocolate Recipe, codes to deactivate the invisibility shield around the village/factory, etc.
 
